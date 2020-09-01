@@ -4,6 +4,7 @@ line = gets.chomp
 
 ssn = 111-11-111
 ccn = 5180-3807-3679-8221
+ccn = 6180-3807-3679-8221
 
 res = [ ]
 while res != ''
