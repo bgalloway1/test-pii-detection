@@ -2,7 +2,7 @@
 print "Please enter a line: "
 line = gets.chomp
 
-ssn = 111-11-111
+ssn = 111-11-1111
 ccn = 5180-3807-3679-8221
 
 res = [ ]
